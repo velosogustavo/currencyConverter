@@ -27,7 +27,7 @@ Desenvolvido em **HTML, CSS e JavaScript puro**, com foco em manipulação de fo
 1. Baixe ou clone o repositório:
 
 ```bash
-git clone [URL_DO_SEU_REPOSITORIO]
+git clone https://github.com/velosogustavo/currencyConverter.git
 ```
 
 2. Abra o arquivo index.html diretamente no seu navegador.
